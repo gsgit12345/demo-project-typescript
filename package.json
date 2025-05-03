@@ -1,24 +1,19 @@
 {
   "name": "demo-project-typescript",
   "version": "1.0.0",
-  "description": "this is the typescript tutorial",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc",
-    "start": "node dist/index.js"
-
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gsgit12345/demo-project-typescript.git"
+    "url": "git+https://gsgit12345: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@github.com/gsgit12345/demo-project-typescript.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gsgit12345/demo-project-typescript/issues"
   },
   "homepage": "https://github.com/gsgit12345/demo-project-typescript#readme"
-
 }
