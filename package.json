@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gsgit12345:gityM@github.com/gsgit12345/demo-project-typescript.git"
+    "url": "https://username:password@github.com/gsgit12345/demo-project-typescript.git"
   },
   "author": "",
   "license": "ISC",

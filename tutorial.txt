@@ -1,0 +1,6 @@
+compile the file 
+
+/home/iid/typescript/demo-project-typescript>tsc
+
+============running the file==========================================
+[iid@master-node demo-project-typescript]$ node dist/anytype.js 

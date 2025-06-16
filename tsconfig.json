@@ -8,7 +8,9 @@
     "esModuleInterop": true,                // Allows default imports from CommonJS
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",             // Resolve modules like Node.js
-    "skipLibCheck": true                    // Skip type checking of declaration files (*.d.ts)
+    "skipLibCheck": true ,
+    "allowJs": true
+    // Skip type checking of declaration files (*.d.ts)
   },
   "include": ["src"],                       // Include only the 'src' directory
   "exclude": ["node_modules", "dist"]       // Exclude build and dependency directories
