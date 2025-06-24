@@ -4,3 +4,7 @@ compile the file
 
 ============running the file==========================================
 [iid@master-node demo-project-typescript]$ node dist/anytype.js 
+
+
+
+https://www.typescriptlang.org/tools/      --documentation

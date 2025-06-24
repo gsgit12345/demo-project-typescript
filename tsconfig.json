@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
-    "target": "ES2020",                     // Output language level (can also use "ES6", "ES2022", etc.)
+    "target": "ES2020", 
+    //"lib":["ES2020", "DOM"],                    // Output language level (can also use "ES6", "ES2022", etc.)
+                                           //lib is used to include the library 
     "module": "commonjs",                   // Module system used (e.g., for Node.js)
     "rootDir": "./src",                     // Where your .ts files are
     "outDir": "./dist",                     // Where compiled .js files go
@@ -8,7 +10,7 @@
     "esModuleInterop": true,                // Allows default imports from CommonJS
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",             // Resolve modules like Node.js
-    "skipLibCheck": true ,
+    "skipLibCheck": true ,        
     "allowJs": true
     // Skip type checking of declaration files (*.d.ts)
   },
