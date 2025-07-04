@@ -36,8 +36,14 @@ console.log(summary)
 
 /////////////second example .lets consider we have list of products coming from database
 
-let product:[
+let product=[
     {name:"mobile",price:1000,details:{color:"red",ram:100}},
     {name:"book",price:1000,details:{color:"red",pages:100,author:"raheem"}}, 
     {name:"T-Shirt",price:1000,details:{color:"red",fabric:"cotton",company:"vmart"}}, 
 ]
+
+for(let prod of product)
+{
+    console.log(prod.details.author);
+    
+}

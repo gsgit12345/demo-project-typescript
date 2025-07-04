@@ -39,3 +39,10 @@ let [a,b,c]=age11;
 console.log('a is:',a,'b is:',b,'c is:',c);
 
 
+function  helloType(a:string)
+{
+    let name;
+    console.log("")
+}
+
+

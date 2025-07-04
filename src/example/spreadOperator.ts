@@ -38,6 +38,6 @@ let landCopy1={size:200,loacation:'premium',...land};
 
 console.log('extracting property from land',landCopy);
 
-console.log('extracting property from land',landCopy);
+console.log('extracting property from land',landCopy1);
 
 
