@@ -17,4 +17,4 @@ function switchRole(role) {
             console.log("unknown error message");
     }
 }
-switchRole('developer');
+switchRole('readwrite');
