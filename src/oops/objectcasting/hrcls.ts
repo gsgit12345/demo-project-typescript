@@ -42,6 +42,6 @@ const child=new assistentCls("assistent","marketing");
 /// assigning the object of parent in chile which will give error
 //child=parent1;// we can not assign 
 
-parent1=child;
+parent1=child;  //here you can assign child into parent1
 
 parent1.printObject();
